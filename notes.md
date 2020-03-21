@@ -1,4 +1,4 @@
-#Somm-Backend Notes
+# Somm-Backend Notes
 
 API that uses RESTful routes to perform CRUD actions for SOMM application
 
